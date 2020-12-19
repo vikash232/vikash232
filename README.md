@@ -18,12 +18,12 @@
 <p align="left">
 <a href="https://twitter.com/vikashkaushik01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vikashkaushik01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikash-k-a17a19122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vikash-k-a17a19122/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14115500/vikash-kaushik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14115500/vikash-kaushik" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vikash232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/vikash232" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vikash8602/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikash8602/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_vkofficial__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_vkofficial__/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14115500/vikash-kaushik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14115500/vikash-kaushik" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vikash232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/vikash232" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vikash8602/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vikash8602/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_vkofficial__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_vkofficial__/" height="30" width="40" /></a>
 <a href="https://medium.com/@vikashkaushik232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vikashkaushik232" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchknlgztkqw6j0idaa9fr9q?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uchknlgztkqw6j0idaa9fr9q?view_as=subscriber" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uchknlgztkqw6j0idaa9fr9q?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uchknlgztkqw6j0idaa9fr9q?view_as=subscriber" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
