@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/vikashkaushik01" target="blank"><img src="https://img.shields.io/twitter/follow/vikashkaushik01?logo=twitter&style=for-the-badge" alt="vikashkaushik01" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.einfochips.com/blog/wp-content/uploads/2017/02/DevOps-FAQ-1200x900.jpg">
 
-- 🌱 I’m currently pursuing **B.Tech(CSE)**
+- 🌱**
 
 - 📝 I regularly write articles on [https://thesocialcomment.com/vikash232/profile](https://thesocialcomment.com/vikash232/profile)
 
