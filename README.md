@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ishika kesarwani</h1>
+         width="45" />, I'm vikash kesarwani</h1>
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of AIML, from UPES Dehradun. I am a Data Science enthusiast, Web developer, and a Photographer. 
 </h5>
