@@ -6,7 +6,7 @@
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of CSE, from AITRC Chhindwara. I am a DevOps enthusiast, Software Devloper, and a Geo-Political Enthusiast. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="vikash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash232&label=Profile%20views&color=0e75b6&style=flat" alt="vikash" /> </p>
 <p>
 <a align= "center" href="https://github.com/vikash232">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash232&theme=radical">
