@@ -22,7 +22,7 @@ A 3rd-year student pursuing Bachelors in Computer science studies with a special
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/vikashkaushik01" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/vikashkaushik01" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="vikashkaushik01" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vikash-kaushik/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="vikash kaushik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/vkofficial_____" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="vkofficial_____" height="50" width="50" /></a>
 </p>
