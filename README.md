@@ -4,7 +4,7 @@
          height="45"
          width="45" />, I'm Vikash Kaushik</h1>
 <h5 align="center">
-A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of CSE, from AITRC Chhindwara. I am a 𝓓𝓮𝓿𝓞𝓹𝓼 𝓔𝓷𝓰𝓲𝓷𝓷𝓮𝓻, Software Devloper, and a Geo-Political Enthusiast. 
+A final-year student pursuing Bachelors in Computer science studies with a specialization of CSE, from AITRC Chhindwara. I am a 𝓓𝓮𝓿𝓞𝓹𝓼 𝓔𝓷𝓰𝓲𝓷𝓷𝓮𝓻, Software Devloper, SRE and a Geo-Political Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash232&label=Profile%20views&color=0e75b6&style=flat" alt="vikash" /> </p>
 <p>
