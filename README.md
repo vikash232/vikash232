@@ -4,7 +4,7 @@
          height="45"
          width="45" />, I'm Vikash Kaushik</h1>
 <h5 align="center">
-A final-year student pursuing Bachelors in Computer science & Engg. from AITRC Chhindwara. I am a  Software Developer and a Geo-Political Enthusiast. 
+          I am a DevOps Engineer and a Geo-Political Enthusiast. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash232&label=Profile%20views&color=0e75b6&style=flat" alt="vikash" /> </p>
 <p>
